@@ -1,1 +1,1 @@
-## leetcode solutions in javascript and Rust
+## leetcode solutions in Typescript and Rust
