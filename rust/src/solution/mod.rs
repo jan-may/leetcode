@@ -6,4 +6,5 @@ mod s0035_search_insert_position;
 mod s0066_plus_one;
 mod s0069_sqrtx;
 mod s1431_kids_with_the_greatest_number_of_candies;
+mod s1480_running_sum_of_1d_array;
 mod s1929_concatenation_of_array;
