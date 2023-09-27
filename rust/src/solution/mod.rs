@@ -2,6 +2,7 @@ mod s0001_two_sum;
 mod s0009_palindrome_number;
 mod s0026_remove_duplicates_from_sorted_array;
 mod s0028_find_the_index_of_the_first_occurrence_in_a_string;
+mod s0035_search_insert_position;
 mod s0066_plus_one;
 mod s0069_sqrtx;
 mod s1431_kids_with_the_greatest_number_of_candies;
