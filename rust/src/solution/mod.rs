@@ -17,3 +17,4 @@ mod s1929_concatenation_of_array;
 mod s0036_valid_sudoku;
 mod s0013_roman_to_integer;
 mod s0145_binary_tree_postorder_traversal;
+mod s0144_binary_tree_preorder_traversal;
