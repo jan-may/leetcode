@@ -21,3 +21,4 @@ mod s1431_kids_with_the_greatest_number_of_candies;
 mod s1480_running_sum_of_1d_array;
 mod s1929_concatenation_of_array;
 mod s0020_valid_parentheses;
+mod s0021_merge_two_sorted_lists;
