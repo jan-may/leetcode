@@ -12,6 +12,7 @@ mod s0036_valid_sudoku;
 mod s0058_length_of_last_word;
 mod s0066_plus_one;
 mod s0069_sqrtx;
+mod s0088_merge_sorted_array;
 mod s0144_binary_tree_preorder_traversal;
 mod s0145_binary_tree_postorder_traversal;
 mod s0896_monotonic_array;
