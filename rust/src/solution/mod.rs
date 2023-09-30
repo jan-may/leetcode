@@ -23,3 +23,4 @@ mod s1929_concatenation_of_array;
 mod s0020_valid_parentheses;
 mod s0021_merge_two_sorted_lists;
 mod s0094_binary_tree_inorder_traversal;
+mod s0125_valid_palindrome;
