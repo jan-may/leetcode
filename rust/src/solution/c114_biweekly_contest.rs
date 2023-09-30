@@ -1,4 +1,3 @@
-
 pub struct Solution {}
 
 impl Solution {
@@ -28,7 +27,7 @@ mod tests {
 
     #[test]
     fn test_c114() {
-        assert_eq!(Solution::min_operations(vec![3,1,5,4,2], 2), 4);
-        assert_eq!(Solution::min_operations(vec![3,1,5,4,2], 5), 5);
+        assert_eq!(Solution::min_operations(vec![3, 1, 5, 4, 2], 2), 4);
+        assert_eq!(Solution::min_operations(vec![3, 1, 5, 4, 2], 5), 5);
     }
 }
