@@ -27,3 +27,4 @@ mod s0125_valid_palindrome;
 mod s0202_happy_number;
 mod s0217_contains_duplicate;
 mod s0219_contains_duplicate_ii;
+mod s0191_number_of_1_bits;
