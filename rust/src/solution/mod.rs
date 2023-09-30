@@ -24,3 +24,5 @@ mod s0020_valid_parentheses;
 mod s0021_merge_two_sorted_lists;
 mod s0094_binary_tree_inorder_traversal;
 mod s0125_valid_palindrome;
+mod s0202_happy_number;
+mod s0217_contains_duplicate;
