@@ -30,3 +30,5 @@ mod s1431_kids_with_the_greatest_number_of_candies;
 mod s1480_running_sum_of_1d_array;
 mod s1929_concatenation_of_array;
 mod s0456_132_pattern;
+mod s0015_3sum;
+mod s0557_reverse_words_in_a_string_iii;
