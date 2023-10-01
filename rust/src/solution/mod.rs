@@ -33,3 +33,4 @@ mod s0456_132_pattern;
 mod s0015_3sum;
 mod s0557_reverse_words_in_a_string_iii;
 mod s2235_add_two_integers;
+mod s2413_smallest_even_multiple;
