@@ -34,3 +34,4 @@ mod s0015_3sum;
 mod s0557_reverse_words_in_a_string_iii;
 mod s2235_add_two_integers;
 mod s2413_smallest_even_multiple;
+mod s2038_remove_colored_pieces_if_both_neighbors_are_the_same_color;
