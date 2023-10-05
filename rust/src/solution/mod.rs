@@ -37,3 +37,4 @@ mod s2062_count_vowel_substrings_of_a_string;
 mod s2235_add_two_integers;
 mod s2413_smallest_even_multiple;
 mod s0706_design_hashmap;
+mod s0229_majority_element_ii;
