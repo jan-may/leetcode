@@ -42,6 +42,7 @@ pub struct Solution {}
 // submission codes start here
 
 impl Solution {
+    #[allow(non_snake_case)]
     pub fn hammingWeight(n: u32) -> i32 {
         let mut n = n;
         let mut count = 0;
