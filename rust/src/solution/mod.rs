@@ -42,3 +42,4 @@ mod s2413_smallest_even_multiple;
 mod s2574_left_and_right_sum_differences;
 mod s1720_decode_xored_array;
 mod s0938_range_sum_of_bst;
+mod s0343_integer_break;
