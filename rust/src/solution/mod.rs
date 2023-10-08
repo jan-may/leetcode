@@ -46,3 +46,4 @@ mod s0343_integer_break;
 mod s2396_strictly_palindromic_number;
 mod s0705_design_hashset;
 mod s0703_kth_largest_element_in_a_stream;
+mod s1464_maximum_product_of_two_elements_in_an_array;
