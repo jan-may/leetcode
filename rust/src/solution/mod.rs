@@ -48,3 +48,4 @@ mod s0705_design_hashset;
 mod s0703_kth_largest_element_in_a_stream;
 mod s1464_maximum_product_of_two_elements_in_an_array;
 mod s1502_can_make_arithmetic_progression_from_sequence;
+mod s1523_count_odd_numbers_in_an_interval_range;
