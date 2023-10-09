@@ -65,3 +65,4 @@ mod s2535_difference_between_element_sum_and_digit_sum_of_an_array;
 mod s2006_count_number_of_pairs_with_absolute_difference_k;
 mod s2373_largest_local_values_in_a_matrix;
 mod s2828_check_if_a_string_is_an_acronym_of_words;
+mod s0804_unique_morse_code_words;
