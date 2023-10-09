@@ -53,3 +53,4 @@ mod s1550_three_consecutive_odds;
 mod s1539_kth_missing_positive_number;
 mod s0034_find_first_and_last_position_of_element_in_sorted_array;
 mod s1920_build_array_from_permutation;
+mod s2859_sum_of_values_at_indices_with_k_set_bits;
