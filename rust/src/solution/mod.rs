@@ -61,3 +61,4 @@ mod s1773_count_items_matching_a_rule;
 mod s1656_design_an_ordered_stream;
 mod s1816_truncate_sentence;
 mod s1662_check_if_two_string_arrays_are_equivalent;
+mod s2535_difference_between_element_sum_and_digit_sum_of_an_array;
