@@ -56,3 +56,4 @@ mod s1920_build_array_from_permutation;
 mod s2859_sum_of_values_at_indices_with_k_set_bits;
 mod s1389_create_target_array_in_the_given_order;
 mod s1313_decompress_run_length_encoded_list;
+mod s1528_shuffle_string;
