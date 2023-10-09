@@ -68,3 +68,4 @@ mod s2828_check_if_a_string_is_an_acronym_of_words;
 mod s0804_unique_morse_code_words;
 mod s1572_matrix_diagonal_sum;
 mod s1732_find_the_highest_altitude;
+mod s1684_count_the_number_of_consistent_strings;
