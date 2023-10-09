@@ -60,3 +60,4 @@ mod s1528_shuffle_string;
 mod s1773_count_items_matching_a_rule;
 mod s1656_design_an_ordered_stream;
 mod s1816_truncate_sentence;
+mod s1662_check_if_two_string_arrays_are_equivalent;
