@@ -52,3 +52,4 @@ mod s1523_count_odd_numbers_in_an_interval_range;
 mod s1550_three_consecutive_odds;
 mod s1539_kth_missing_positive_number;
 mod s0034_find_first_and_last_position_of_element_in_sorted_array;
+mod s1920_build_array_from_permutation;
