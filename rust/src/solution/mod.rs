@@ -58,3 +58,4 @@ mod s1389_create_target_array_in_the_given_order;
 mod s1313_decompress_run_length_encoded_list;
 mod s1528_shuffle_string;
 mod s1773_count_items_matching_a_rule;
+mod s1656_design_an_ordered_stream;
