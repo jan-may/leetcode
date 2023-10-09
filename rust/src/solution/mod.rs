@@ -50,3 +50,5 @@ mod s1464_maximum_product_of_two_elements_in_an_array;
 mod s1502_can_make_arithmetic_progression_from_sequence;
 mod s1523_count_odd_numbers_in_an_interval_range;
 mod s1550_three_consecutive_odds;
+mod s1539_kth_missing_positive_number;
+mod s0034_find_first_and_last_position_of_element_in_sorted_array;
