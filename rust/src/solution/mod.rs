@@ -69,3 +69,4 @@ mod s0804_unique_morse_code_words;
 mod s1572_matrix_diagonal_sum;
 mod s1732_find_the_highest_altitude;
 mod s1684_count_the_number_of_consistent_strings;
+mod s0832_flipping_an_image;
