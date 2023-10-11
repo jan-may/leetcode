@@ -72,3 +72,4 @@ mod s1684_count_the_number_of_consistent_strings;
 mod s0832_flipping_an_image;
 mod s2656_maximum_sum_with_exactly_k_elements;
 mod s1534_count_good_triplets;
+mod s1913_maximum_product_difference_between_two_pairs;
