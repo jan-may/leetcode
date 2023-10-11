@@ -73,3 +73,5 @@ mod s0832_flipping_an_image;
 mod s2656_maximum_sum_with_exactly_k_elements;
 mod s1534_count_good_triplets;
 mod s1913_maximum_product_difference_between_two_pairs;
+mod s1863_sum_of_all_subset_xor_totals;
+mod s2744_find_maximum_number_of_string_pairs;
