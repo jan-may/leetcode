@@ -77,3 +77,4 @@ mod s1863_sum_of_all_subset_xor_totals;
 mod s2744_find_maximum_number_of_string_pairs;
 mod s2418_sort_the_people;
 mod s2176_count_equal_and_divisible_pairs_in_an_array;
+mod s2108_find_first_palindromic_string_in_the_array;
