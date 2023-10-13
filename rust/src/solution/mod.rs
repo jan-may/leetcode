@@ -81,3 +81,4 @@ mod s2108_find_first_palindromic_string_in_the_array;
 mod s2778_sum_of_squares_of_special_elements;
 mod s1252_cells_with_odd_values_in_a_matrix;
 mod s1351_count_negative_numbers_in_a_sorted_matrix;
+mod s0746_min_cost_climbing_stairs;
