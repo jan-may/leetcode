@@ -85,3 +85,4 @@ mod s2418_sort_the_people;
 mod s2500_delete_greatest_value_in_each_row;
 mod s2744_find_maximum_number_of_string_pairs;
 mod s2778_sum_of_squares_of_special_elements;
+mod s2643_row_with_maximum_ones;
