@@ -90,3 +90,4 @@ mod s2678_number_of_senior_citizens;
 mod s2089_find_target_indices_after_sorting_array;
 mod s1051_height_checker;
 mod s2586_count_the_number_of_vowel_strings_in_range;
+mod s1207_unique_number_of_occurrences;
