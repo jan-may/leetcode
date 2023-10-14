@@ -92,3 +92,4 @@ mod s1051_height_checker;
 mod s2586_count_the_number_of_vowel_strings_in_range;
 mod s1207_unique_number_of_occurrences;
 mod s2032_two_out_of_three;
+mod s0944_delete_columns_to_make_sorted;
