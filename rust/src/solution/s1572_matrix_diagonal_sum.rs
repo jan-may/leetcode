@@ -12,27 +12,27 @@
  * Output: 25
  * Explanation: Diagonals sum: 1 + 5 + 9 + 3 + 7 = 25
  * Notice that element mat[1][1] = 5 is counted only once.
- * 
+ *
  * <strong class="example">Example 2:
- * 
+ *
  * Input: mat = [[1,1,1,1],
  *               [1,1,1,1],
  *               [1,1,1,1],
  *               [1,1,1,1]]
  * Output: 8
- * 
+ *
  * <strong class="example">Example 3:
- * 
+ *
  * Input: mat = [[5]]
  * Output: 5
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	n == mat.length == mat[i].length
  * 	1 <= n <= 100
  * 	1 <= mat[i][j] <= 100
- * 
+ *
  */
 pub struct Solution {}
 
@@ -63,9 +63,10 @@ mod tests {
 
     #[test]
     fn test_1572() {
-        assert_eq!(Solution::diagonal_sum(vec![vec![0]]), 0
-        );
-        assert_eq!(Solution::diagonal_sum(vec![vec![1,2,3],vec![4,5,6],vec![7,8,9]]), 25
+        assert_eq!(Solution::diagonal_sum(vec![vec![0]]), 0);
+        assert_eq!(
+            Solution::diagonal_sum(vec![vec![1, 2, 3], vec![4, 5, 6], vec![7, 8, 9]]),
+            25
         );
     }
 }

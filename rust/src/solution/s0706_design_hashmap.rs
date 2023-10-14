@@ -90,7 +90,6 @@ impl MyHashMap {
     fn hash(&self, key: i32) -> usize {
         key as usize % self.capacity
     }
-
 }
 
 /**

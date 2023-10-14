@@ -5,31 +5,31 @@
  * A string is palindromic if it reads the same forward and backward.
  *  
  * <strong class="example">Example 1:
- * 
+ *
  * Input: words = ["abc","car","ada","racecar","cool"]
  * Output: "ada"
  * Explanation: The first string that is palindromic is "ada".
  * Note that "racecar" is also palindromic, but it is not the first.
- * 
+ *
  * <strong class="example">Example 2:
- * 
+ *
  * Input: words = ["notapalindrome","racecar"]
  * Output: "racecar"
  * Explanation: The first and only string that is palindromic is "racecar".
- * 
+ *
  * <strong class="example">Example 3:
- * 
+ *
  * Input: words = ["def","ghi"]
  * Output: ""
  * Explanation: There are no palindromic strings, so the empty string is returned.
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	1 <= words.length <= 100
  * 	1 <= words[i].length <= 100
  * 	words[i] consists only of lowercase English letters.
- * 
+ *
  */
 pub struct Solution {}
 
@@ -67,8 +67,23 @@ mod tests {
 
     #[test]
     fn test_2108() {
-        assert_eq!(Solution::first_palindrome(vec!["abc".to_string(),"car".to_string(),"ada".to_string(),"racecar".to_string(),"cool".to_string()]), "ada".to_string());
-        assert_eq!(Solution::first_palindrome(vec!["notapalindrome".to_string(),"racecar".to_string()]), "racecar".to_string());
-        assert_eq!(Solution::first_palindrome(vec!["def".to_string(),"ghi".to_string()]), "".to_string());
+        assert_eq!(
+            Solution::first_palindrome(vec![
+                "abc".to_string(),
+                "car".to_string(),
+                "ada".to_string(),
+                "racecar".to_string(),
+                "cool".to_string()
+            ]),
+            "ada".to_string()
+        );
+        assert_eq!(
+            Solution::first_palindrome(vec!["notapalindrome".to_string(), "racecar".to_string()]),
+            "racecar".to_string()
+        );
+        assert_eq!(
+            Solution::first_palindrome(vec!["def".to_string(), "ghi".to_string()]),
+            "".to_string()
+        );
     }
 }

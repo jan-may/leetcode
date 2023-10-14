@@ -6,27 +6,27 @@
  * Return names sorted in descending order by the people's heights.
  *  
  * <strong class="example">Example 1:
- * 
+ *
  * Input: names = ["Mary","John","Emma"], heights = [180,165,170]
  * Output: ["Mary","Emma","John"]
  * Explanation: Mary is the tallest, followed by Emma and John.
- * 
+ *
  * <strong class="example">Example 2:
- * 
+ *
  * Input: names = ["Alice","Bob","Bob"], heights = [155,185,150]
  * Output: ["Bob","Alice","Bob"]
  * Explanation: The first Bob is the tallest, followed by Alice and the second Bob.
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	n == names.length == heights.length
  * 	1 <= n <= 10^3
  * 	1 <= names[i].length <= 20
  * 	1 <= heights[i] <= 10^5
  * 	names[i] consists of lower and upper case English letters.
  * 	All the values of heights are distinct.
- * 
+ *
  */
 pub struct Solution {}
 
@@ -60,6 +60,12 @@ mod tests {
 
     #[test]
     fn test_2418() {
-        assert_eq!(Solution::sort_people(vec!["Mary".to_string(),"John".to_string(),"Emma".to_string()], vec![180,165,170]), vec!["Mary".to_string(),"Emma".to_string(),"John".to_string()]);
+        assert_eq!(
+            Solution::sort_people(
+                vec!["Mary".to_string(), "John".to_string(), "Emma".to_string()],
+                vec![180, 165, 170]
+            ),
+            vec!["Mary".to_string(), "Emma".to_string(), "John".to_string()]
+        );
     }
 }

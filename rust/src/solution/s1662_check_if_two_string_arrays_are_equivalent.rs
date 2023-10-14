@@ -5,7 +5,7 @@
  * A string is represented by an array if the array elements concatenated in order forms the string.
  *  
  * <strong class="example">Example 1:
- * 
+ *
  * Input: word1 = ["ab", "c"], word2 = ["a", "bc"]
  * Output: true
  * Explanation:
@@ -13,23 +13,23 @@
  * word2 represents string "a" + "bc" -> "abc"
  * The strings are the same, so return true.
  * <strong class="example">Example 2:
- * 
+ *
  * Input: word1 = ["a", "cb"], word2 = ["ab", "c"]
  * Output: false
- * 
+ *
  * <strong class="example">Example 3:
- * 
+ *
  * Input: word1  = ["abc", "d", "defg"], word2 = ["abcddefg"]
  * Output: true
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	1 <= word1.length, word2.length <= 10^3
  * 	1 <= word1[i].length, word2[i].length <= 10^3
  * 	1 <= sum(word1[i].length), sum(word2[i].length) <= 10^3
  * 	word1[i] and word2[i] consist of lowercase letters.
- * 
+ *
  */
 pub struct Solution {}
 
@@ -53,17 +53,11 @@ mod tests {
     #[test]
     fn test_1662() {
         assert_eq!(
-            Solution::array_strings_are_equal(
-                vec_string!["ab", "c"],
-                vec_string!["a", "bc"]
-            ),
+            Solution::array_strings_are_equal(vec_string!["ab", "c"], vec_string!["a", "bc"]),
             true
         );
         assert_eq!(
-            Solution::array_strings_are_equal(
-                vec_string!["a", "cb"],
-                vec_string!["ab", "c"]
-            ),
+            Solution::array_strings_are_equal(vec_string!["a", "cb"], vec_string!["ab", "c"]),
             false
         );
         assert_eq!(

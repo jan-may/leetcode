@@ -11,13 +11,13 @@
  * Output: "doG gniD"
  *  
  * Constraints:
- * 
+ *
  * 	1 <= s.length <= 5 * 10^4
  * 	s contains printable ASCII characters.
  * 	s does not contain any leading or trailing spaces.
  * 	There is at least one word in s.
  * 	All the words in s are separated by a single space.
- * 
+ *
  */
 pub struct Solution {}
 
@@ -29,13 +29,13 @@ pub struct Solution {}
 impl Solution {
     pub fn reverse_words(s: String) -> String {
         let mut result = String::new();
-        for mut word in s.split_whitespace(){
-            for c in word.chars().rev(){
-               result.push(c);
+        for mut word in s.split_whitespace() {
+            for c in word.chars().rev() {
+                result.push(c);
             }
             result.push(' ');
         }
-        result.remove(result.len()-1);
+        result.remove(result.len() - 1);
         result
     }
 }
@@ -48,7 +48,13 @@ mod tests {
 
     #[test]
     fn test_557() {
-        assert_eq!(Solution::reverse_words("Let's take LeetCode contest".to_string()), "s'teL ekat edoCteeL tsetnoc".to_string());
-        assert_eq!(Solution::reverse_words("God Ding".to_string()), "doG gniD".to_string());
+        assert_eq!(
+            Solution::reverse_words("Let's take LeetCode contest".to_string()),
+            "s'teL ekat edoCteeL tsetnoc".to_string()
+        );
+        assert_eq!(
+            Solution::reverse_words("God Ding".to_string()),
+            "doG gniD".to_string()
+        );
     }
 }

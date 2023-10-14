@@ -16,12 +16,12 @@
  * Output: [-1,-1]
  *  
  * Constraints:
- * 
+ *
  * 	0 <= nums.length <= 10^5
  * 	-10^9 <= nums[i] <= 10^9
  * 	nums is a non-decreasing array.
  * 	-10^9 <= target <= 10^9
- * 
+ *
  */
 pub struct Solution {}
 
@@ -67,8 +67,6 @@ impl Solution {
     }
 }
 
-
-
 // submission codes end
 
 #[cfg(test)]
@@ -78,7 +76,13 @@ mod tests {
     #[test]
     fn test_34() {
         assert_eq!(Solution::search_range(vec![], 0), vec![-1, -1]);
-        assert_eq!(Solution::search_range(vec![5, 7, 7, 8, 8, 10], 8), vec![3, 4]);
-        assert_eq!(Solution::search_range(vec![5, 7, 7, 8, 8, 10], 6), vec![-1, -1]);
+        assert_eq!(
+            Solution::search_range(vec![5, 7, 7, 8, 8, 10], 8),
+            vec![3, 4]
+        );
+        assert_eq!(
+            Solution::search_range(vec![5, 7, 7, 8, 8, 10], 6),
+            vec![-1, -1]
+        );
     }
 }

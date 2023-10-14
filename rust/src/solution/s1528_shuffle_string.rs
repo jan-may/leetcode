@@ -9,22 +9,22 @@
  * Input: s = "codeleet", indices = [4,5,6,7,0,2,1,3]
  * Output: "leetcode"
  * Explanation: As shown, "codeleet" becomes "leetcode" after shuffling.
- * 
+ *
  * <strong class="example">Example 2:
- * 
+ *
  * Input: s = "abc", indices = [0,1,2]
  * Output: "abc"
  * Explanation: After shuffling, each character remains in its position.
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	s.length == indices.length == n
  * 	1 <= n <= 100
  * 	s consists of only lowercase English letters.
  * 	0 <= indices[i] < n
  * 	All values of indices are unique.
- * 
+ *
  */
 pub struct Solution {}
 
@@ -51,7 +51,13 @@ mod tests {
 
     #[test]
     fn test_1528() {
-        assert_eq!(Solution::restore_string("codeleet".to_string(), vec![4,5,6,7,0,2,1,3]), "leetcode".to_string());
-        assert_eq!(Solution::restore_string("abc".to_string(), vec![0,1,2]), "abc".to_string());
+        assert_eq!(
+            Solution::restore_string("codeleet".to_string(), vec![4, 5, 6, 7, 0, 2, 1, 3]),
+            "leetcode".to_string()
+        );
+        assert_eq!(
+            Solution::restore_string("abc".to_string(), vec![0, 1, 2]),
+            "abc".to_string()
+        );
     }
 }

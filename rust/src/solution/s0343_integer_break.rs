@@ -5,22 +5,22 @@
  * Return the maximum product you can get.
  *  
  * <strong class="example">Example 1:
- * 
+ *
  * Input: n = 2
  * Output: 1
  * Explanation: 2 = 1 + 1, 1 &times; 1 = 1.
- * 
+ *
  * <strong class="example">Example 2:
- * 
+ *
  * Input: n = 10
  * Output: 36
  * Explanation: 10 = 3 + 3 + 4, 3 &times; 3 &times; 4 = 36.
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	2 <= n <= 58
- * 
+ *
  */
 pub struct Solution {}
 

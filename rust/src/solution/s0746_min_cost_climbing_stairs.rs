@@ -6,15 +6,15 @@
  * Return the minimum cost to reach the top of the floor.
  *  
  * <strong class="example">Example 1:
- * 
+ *
  * Input: cost = [10,<u>15</u>,20]
  * Output: 15
  * Explanation: You will start at index 1.
  * - Pay 15 and climb two steps to reach the top.
  * The total cost is 15.
- * 
+ *
  * <strong class="example">Example 2:
- * 
+ *
  * Input: cost = [<u>1</u>,100,<u>1</u>,1,<u>1</u>,100,<u>1</u>,<u>1</u>,100,<u>1</u>]
  * Output: 6
  * Explanation: You will start at index 0.
@@ -25,13 +25,13 @@
  * - Pay 1 and climb two steps to reach index 9.
  * - Pay 1 and climb one step to reach the top.
  * The total cost is 6.
- * 
+ *
  *  
  * Constraints:
- * 
+ *
  * 	2 <= cost.length <= 1000
  * 	0 <= cost[i] <= 999
- * 
+ *
  */
 pub struct Solution {}
 
@@ -44,7 +44,7 @@ impl Solution {
     pub fn min_cost_climbing_stairs(cost: Vec<i32>) -> i32 {
         let mut dp = vec![0; cost.len() + 1];
         for i in 2..=cost.len() {
-            dp[i] = std::cmp::min(dp[i-1] + cost[i-1], dp[i-2] + cost[i-2]);
+            dp[i] = std::cmp::min(dp[i - 1] + cost[i - 1], dp[i - 2] + cost[i - 2]);
         }
         dp[cost.len()]
     }
@@ -57,6 +57,5 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_746() {
-    }
+    fn test_746() {}
 }
