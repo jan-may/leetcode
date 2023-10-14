@@ -83,3 +83,4 @@ mod s1252_cells_with_odd_values_in_a_matrix;
 mod s1351_count_negative_numbers_in_a_sorted_matrix;
 mod s0746_min_cost_climbing_stairs;
 mod s2500_delete_greatest_value_in_each_row;
+mod s0561_array_partition;
