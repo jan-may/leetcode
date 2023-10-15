@@ -95,3 +95,4 @@ mod s2032_two_out_of_three;
 mod s0944_delete_columns_to_make_sorted;
 mod s1021_remove_outermost_parentheses;
 mod s1614_maximum_nesting_depth_of_the_parentheses;
+mod s0682_baseball_game;
