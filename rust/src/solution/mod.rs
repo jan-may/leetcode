@@ -97,3 +97,4 @@ mod s1021_remove_outermost_parentheses;
 mod s1614_maximum_nesting_depth_of_the_parentheses;
 mod s0682_baseball_game;
 mod s1475_final_prices_with_a_special_discount_in_a_shop;
+mod s0496_next_greater_element_i;
