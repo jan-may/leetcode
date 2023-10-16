@@ -105,3 +105,4 @@ mod s0070_climbing_stairs;
 mod s0198_house_robber;
 mod s1137_n_th_tribonacci_number;
 mod s0509_fibonacci_number;
+mod s0740_delete_and_earn;
