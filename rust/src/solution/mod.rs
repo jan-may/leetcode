@@ -101,3 +101,4 @@ mod s0496_next_greater_element_i;
 mod s1700_number_of_students_unable_to_eat_lunch;
 mod s1356_sort_integers_by_the_number_of_1_bits;
 mod s0119_pascals_triangle_ii;
+mod s0070_climbing_stairs;
