@@ -1,1 +1,2 @@
 mod p0198_house_robber;
+mod p0746_min_cost_climbing_stairs;
