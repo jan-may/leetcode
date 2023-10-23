@@ -86,6 +86,7 @@ mod s0198_house_robber;
 mod s0252_meeting_rooms;
 mod s0342_power_of_four;
 mod s0344_reverse_string;
+mod s0346_moving_average_from_data_stream;
 mod s0359_logger_rate_limiter;
 mod s0496_next_greater_element_i;
 mod s0509_fibonacci_number;
