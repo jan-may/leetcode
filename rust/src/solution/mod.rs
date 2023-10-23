@@ -107,3 +107,4 @@ mod s1137_n_th_tribonacci_number;
 mod s0509_fibonacci_number;
 mod s0740_delete_and_earn;
 mod s0844_backspace_string_compare;
+mod s0342_power_of_four;
