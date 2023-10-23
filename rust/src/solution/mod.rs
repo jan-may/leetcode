@@ -75,6 +75,7 @@ mod s2656_maximum_sum_with_exactly_k_elements;
 mod s2828_check_if_a_string_is_an_acronym_of_words;
 mod s2859_sum_of_values_at_indices_with_k_set_bits;
 // mod s1863_sum_of_all_subset_xor_totals;
+mod p0234_shortest_word_distance;
 mod s0070_climbing_stairs;
 mod s0119_pascals_triangle_ii;
 mod s0136_single_number;
