@@ -109,3 +109,4 @@ mod s0740_delete_and_earn;
 mod s0844_backspace_string_compare;
 mod s0342_power_of_four;
 mod s0344_reverse_string;
+mod s0136_single_number;
