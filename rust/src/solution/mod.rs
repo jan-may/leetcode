@@ -83,6 +83,7 @@ mod s0157_read_n_chracters_gvien_read4;
 mod s0163_missing_ranges;
 mod s0170_two_sum_data_structure_design;
 mod s0198_house_robber;
+mod s0252_meeting_rooms;
 mod s0342_power_of_four;
 mod s0344_reverse_string;
 mod s0496_next_greater_element_i;
