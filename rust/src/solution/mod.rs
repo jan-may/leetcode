@@ -112,6 +112,7 @@ mod s2418_sort_the_people;
 mod s2500_delete_greatest_value_in_each_row;
 mod s2586_count_the_number_of_vowel_strings_in_range;
 mod s2643_row_with_maximum_ones;
+mod s266_palindrome_permutation;
 mod s2678_number_of_senior_citizens;
 mod s2744_find_maximum_number_of_string_pairs;
 mod s2778_sum_of_squares_of_special_elements;
