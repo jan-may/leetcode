@@ -86,6 +86,7 @@ mod s0198_house_robber;
 mod s0252_meeting_rooms;
 mod s0342_power_of_four;
 mod s0344_reverse_string;
+mod s0359_logger_rate_limiter;
 mod s0496_next_greater_element_i;
 mod s0509_fibonacci_number;
 mod s0561_array_partition;
