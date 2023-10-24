@@ -98,6 +98,7 @@ mod s0844_backspace_string_compare;
 mod s0944_delete_columns_to_make_sorted;
 mod s1021_remove_outermost_parentheses;
 mod s1051_height_checker;
+mod s1119_remove_vowels_from_string;
 mod s1137_n_th_tribonacci_number;
 mod s1207_unique_number_of_occurrences;
 mod s1252_cells_with_odd_values_in_a_matrix;
