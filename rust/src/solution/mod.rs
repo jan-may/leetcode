@@ -103,6 +103,7 @@ mod s1119_remove_vowels_from_string;
 mod s1137_n_th_tribonacci_number;
 mod s1165_single_row_keyboard;
 mod s1207_unique_number_of_occurrences;
+mod s1213_intersection_of_three_sorted_arrays;
 mod s1252_cells_with_odd_values_in_a_matrix;
 mod s1351_count_negative_numbers_in_a_sorted_matrix;
 mod s1356_sort_integers_by_the_number_of_1_bits;
