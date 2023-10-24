@@ -94,6 +94,7 @@ mod s0561_array_partition;
 mod s0682_baseball_game;
 mod s0740_delete_and_earn;
 mod s0746_min_cost_climbing_stairs;
+mod s0760_find_anagram_mappings;
 mod s0844_backspace_string_compare;
 mod s0944_delete_columns_to_make_sorted;
 mod s1021_remove_outermost_parentheses;
