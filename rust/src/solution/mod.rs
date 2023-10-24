@@ -108,6 +108,7 @@ mod s1475_final_prices_with_a_special_discount_in_a_shop;
 mod s1570_dot_product_of_two_sparse_vectors;
 mod s1614_maximum_nesting_depth_of_the_parentheses;
 mod s1700_number_of_students_unable_to_eat_lunch;
+mod s1874_minimize_product_sum_of_two_arrays;
 mod s2032_two_out_of_three;
 mod s2089_find_target_indices_after_sorting_array;
 mod s2108_find_first_palindromic_string_in_the_array;
