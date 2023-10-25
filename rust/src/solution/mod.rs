@@ -127,3 +127,4 @@ mod s2778_sum_of_squares_of_special_elements;
 mod s0485_max_consecutive_ones;
 mod s1295_find_numbers_with_even_number_of_digits;
 mod s0977_squares_of_a_sorted_array;
+mod s1089_duplicate_zeros;
