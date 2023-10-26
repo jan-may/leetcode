@@ -144,3 +144,4 @@ mod s2778_sum_of_squares_of_special_elements;
 mod s0771_jewels_and_stones;
 mod s0454_4sum_ii;
 mod s0347_top_k_frequent_elements;
+mod s0380_insert_delete_getrandom_o1;
