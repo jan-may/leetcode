@@ -133,3 +133,4 @@ mod s0941_valid_mountain_array;
 mod s1299_replace_elements_with_greatest_element_on_right_side;
 mod s0283_move_zeroes;
 mod s0448_find_all_numbers_disappeared_in_an_array;
+mod s0414_third_maximum_number;
