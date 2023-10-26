@@ -141,3 +141,4 @@ mod s266_palindrome_permutation;
 mod s2678_number_of_senior_citizens;
 mod s2744_find_maximum_number_of_string_pairs;
 mod s2778_sum_of_squares_of_special_elements;
+mod s0771_jewels_and_stones;
