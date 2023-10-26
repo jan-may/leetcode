@@ -139,3 +139,4 @@ mod s0349_intersection_of_two_arrays;
 mod s0205_isomorphic_strings;
 mod s0599_minimum_index_sum_of_two_lists;
 mod s0387_first_unique_character_in_a_string;
+mod s0049_group_anagrams;
