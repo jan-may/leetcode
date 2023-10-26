@@ -143,3 +143,4 @@ mod s2744_find_maximum_number_of_string_pairs;
 mod s2778_sum_of_squares_of_special_elements;
 mod s0771_jewels_and_stones;
 mod s0454_4sum_ii;
+mod s0347_top_k_frequent_elements;
