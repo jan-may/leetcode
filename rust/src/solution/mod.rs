@@ -138,6 +138,7 @@ mod s1874_minimize_product_sum_of_two_arrays;
 mod s2032_two_out_of_three;
 mod s2089_find_target_indices_after_sorting_array;
 mod s2108_find_first_palindromic_string_in_the_array;
+mod s2160_minimum_sum_if_four_digits_number;
 mod s2176_count_equal_and_divisible_pairs_in_an_array;
 mod s2418_sort_the_people;
 mod s2500_delete_greatest_value_in_each_row;
