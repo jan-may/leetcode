@@ -152,3 +152,4 @@ mod s2894_divisible_and_non_divisible_sum_difference;
 mod s0547_number_of_provinces;
 mod s2433_find_the_original_array_of_prefix_xor;
 mod s0501_find_mode_in_binary_search_tree;
+mod s1503_last_moment_before_all_ants_fall_out_of_a_plank;
