@@ -154,3 +154,4 @@ mod s2433_find_the_original_array_of_prefix_xor;
 mod s0501_find_mode_in_binary_search_tree;
 mod s1503_last_moment_before_all_ants_fall_out_of_a_plank;
 mod s0744_find_smallest_letter_greater_than_target;
+mod s1146_snapshot_array;
