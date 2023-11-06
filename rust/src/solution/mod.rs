@@ -160,3 +160,4 @@ mod s1845_seat_reservation_manager;
 mod s0024_swap_nodes_in_pairs;
 mod s0118_pascals_triangle;
 mod s1646_get_maximum_in_generated_array;
+mod s0392_is_subsequence;
