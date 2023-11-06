@@ -26,7 +26,19 @@ pub struct Solution {}
 
 impl Solution {
     pub fn reverse_string(s: &mut Vec<char>) {
-        s.reverse()
+        let len = s.len();
+        if len <= 1 {
+            return;
+        }
+        Solution::helper(s, 0, len - 1);
+    }
+
+    fn helper(s: &mut Vec<char>, start: usize, end: usize) {
+        if start >= end {
+            return;
+        }
+        s.swap(start, end);
+        Solution::helper(s, start + 1, end - 1);
     }
 }
 
