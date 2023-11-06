@@ -1,3 +1,5 @@
+use std::collections::HashMap;
+
 /**
  * [119] Pascal's Triangle II
  *
@@ -32,16 +34,31 @@ pub struct Solution {}
 
 impl Solution {
     pub fn get_row(row_index: i32) -> Vec<i32> {
-        let mut result = vec![1];
-        for i in 1..=row_index {
-            let mut prev = 1;
-            for j in 1..i {
-                let temp = result[j as usize];
-                result[j as usize] += prev;
-                prev = temp;
-            }
-            result.push(1);
+        let mut memo: HashMap<(usize, usize), usize> = HashMap::new();
+        let mut result = vec![];
+        for j in 0..=row_index as usize {
+            result.push(
+                Solution::helper(row_index as usize, row_index as usize, j, &mut memo) as i32,
+            );
         }
+        result
+    }
+
+    fn helper(
+        num_rows: usize,
+        row: usize,
+        col: usize,
+        mut memo: &mut HashMap<(usize, usize), usize>,
+    ) -> usize {
+        if row == 0 || col == 0 || row == col {
+            return 1;
+        }
+        if let Some(&v) = memo.get(&(row, col)) {
+            return v;
+        }
+        let result = Solution::helper(num_rows, row - 1, col - 1, memo)
+            + Solution::helper(num_rows, row - 1, col, memo);
+        memo.insert((row, col), result);
         result
     }
 }
