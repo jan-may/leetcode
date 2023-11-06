@@ -25,7 +25,7 @@ pub struct Solution {}
 impl Solution {
     pub fn generate_parenthesis(n: i32) -> Vec<String> {
         let mut result = vec![];
-        Solution::backtracking(n, n, String::new(), &mut result);
+        Self::backtracking(n, n, String::new(), &mut result);
         result
     }
 
@@ -35,10 +35,10 @@ impl Solution {
             return;
         }
         if left > 0 {
-            Solution::backtracking(left - 1, right, path.clone() + "(", result);
+            Self::backtracking(left - 1, right, path.clone() + "(", result);
         }
         if right > left {
-            Solution::backtracking(left, right - 1, path + ")", result);
+            Self::backtracking(left, right - 1, path + ")", result);
         }
     }
 }
