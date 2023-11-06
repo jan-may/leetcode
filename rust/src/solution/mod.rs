@@ -156,3 +156,4 @@ mod s1503_last_moment_before_all_ants_fall_out_of_a_plank;
 mod s0744_find_smallest_letter_greater_than_target;
 mod s1146_snapshot_array;
 mod s1535_find_the_winner_of_an_array_game;
+mod s1845_seat_reservation_manager;
