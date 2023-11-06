@@ -165,3 +165,4 @@ mod s0121_best_time_to_buy_and_sell_stock;
 mod s1025_divisor_game;
 mod s0338_counting_bits;
 mod s0022_generate_parentheses;
+mod s0053_maximum_subarray;
