@@ -163,3 +163,4 @@ mod s1646_get_maximum_in_generated_array;
 mod s0392_is_subsequence;
 mod s0121_best_time_to_buy_and_sell_stock;
 mod s1025_divisor_game;
+mod s0338_counting_bits;
