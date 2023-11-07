@@ -166,3 +166,5 @@ mod s1025_divisor_game;
 mod s0338_counting_bits;
 mod s0022_generate_parentheses;
 mod s0053_maximum_subarray;
+mod s1921_eliminate_maximum_number_of_monsters;
+mod s1441_build_an_array_with_stack_operations;
