@@ -169,3 +169,4 @@ mod s0053_maximum_subarray;
 mod s1921_eliminate_maximum_number_of_monsters;
 mod s1441_build_an_array_with_stack_operations;
 mod s1689_partitioning_into_minimum_number_of_deci_binary_numbers;
+mod s2849_determine_if_a_cell_is_reachable_at_a_given_time;
