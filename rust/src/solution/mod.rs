@@ -173,3 +173,4 @@ mod s2849_determine_if_a_cell_is_reachable_at_a_given_time;
 mod s1759_count_number_of_homogenous_substrings;
 mod s1743_restore_the_array_from_adjacent_pairs;
 mod s1846_maximum_element_after_decreasing_and_rearranging;
+mod s0373_find_k_pairs_with_smallest_sums;
