@@ -178,3 +178,4 @@ mod s1877_minimize_maximum_pair_sum_in_array;
 mod s1880_check_if_word_equals_summation_of_two_words;
 mod s1881_maximum_value_after_insertion;
 mod s1812_determine_color_of_a_chessboard_square;
+mod s1814_count_nice_pairs_in_an_array;
