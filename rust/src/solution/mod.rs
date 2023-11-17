@@ -175,3 +175,4 @@ mod s1743_restore_the_array_from_adjacent_pairs;
 mod s1846_maximum_element_after_decreasing_and_rearranging;
 mod s0373_find_k_pairs_with_smallest_sums;
 mod s1877_minimize_maximum_pair_sum_in_array;
+mod s1880_check_if_word_equals_summation_of_two_words;
