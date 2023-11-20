@@ -192,3 +192,4 @@ mod s0048_rotate_image;
 mod s0007_reverse_integer;
 mod s0045_jump_game_ii;
 mod s0054_spiral_matrix;
+mod s0012_integer_to_roman;
