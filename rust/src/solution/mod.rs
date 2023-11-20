@@ -183,3 +183,4 @@ mod s1329_sort_the_matrix_diagonally;
 mod s1838_frequency_of_the_most_frequent_element;
 mod s0046_permutations;
 mod s0043_multiply_strings;
+mod s0031_next_permutation;
