@@ -184,3 +184,4 @@ mod s1838_frequency_of_the_most_frequent_element;
 mod s0046_permutations;
 mod s0043_multiply_strings;
 mod s0031_next_permutation;
+mod s0050_powx_n;
