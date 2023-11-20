@@ -185,3 +185,4 @@ mod s0046_permutations;
 mod s0043_multiply_strings;
 mod s0031_next_permutation;
 mod s0050_powx_n;
+mod s0056_merge_intervals;
