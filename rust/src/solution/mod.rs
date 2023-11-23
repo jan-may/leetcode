@@ -198,3 +198,4 @@ mod s0017_letter_combinations_of_a_phone_number;
 mod s0038_count_and_say;
 mod s1630_arithmetic_subarrays;
 mod s0008_string_to_integer_atoi;
+mod s0018_4sum;
