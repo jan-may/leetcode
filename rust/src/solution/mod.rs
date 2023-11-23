@@ -199,3 +199,4 @@ mod s0038_count_and_say;
 mod s1630_arithmetic_subarrays;
 mod s0008_string_to_integer_atoi;
 mod s0018_4sum;
+mod s0078_subsets;
