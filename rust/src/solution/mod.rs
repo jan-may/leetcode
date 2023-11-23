@@ -196,3 +196,4 @@ mod s0012_integer_to_roman;
 mod s0011_container_with_most_water;
 mod s0017_letter_combinations_of_a_phone_number;
 mod s0038_count_and_say;
+mod s1630_arithmetic_subarrays;
