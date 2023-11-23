@@ -201,3 +201,4 @@ mod s0008_string_to_integer_atoi;
 mod s0018_4sum;
 mod s0078_subsets;
 mod s0080_remove_duplicates_from_sorted_array_ii;
+mod s0062_unique_paths;
