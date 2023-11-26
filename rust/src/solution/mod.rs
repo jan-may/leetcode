@@ -212,3 +212,4 @@ mod s0215_kth_largest_element_in_an_array;
 mod s0165_compare_version_numbers;
 mod s0167_two_sum_ii_input_array_is_sorted;
 mod s0187_repeated_dna_sequences;
+mod s0204_count_primes;
