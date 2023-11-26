@@ -206,3 +206,5 @@ mod s0073_set_matrix_zeroes;
 mod s0074_search_a_2d_matrix;
 mod s0075_sort_colors;
 mod s1561_maximum_number_of_coins_you_can_get;
+mod s1685_sum_of_absolute_differences_in_a_sorted_array;
+mod s1727_largest_submatrix_with_rearrangements;
