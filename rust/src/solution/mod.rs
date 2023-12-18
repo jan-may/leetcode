@@ -213,3 +213,4 @@ mod s0165_compare_version_numbers;
 mod s0167_two_sum_ii_input_array_is_sorted;
 mod s0187_repeated_dna_sequences;
 mod s0204_count_primes;
+mod s0064_minimum_path_sum;
