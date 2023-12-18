@@ -47,10 +47,27 @@ pub struct Solution {}
 
 impl Solution {
     pub fn max_product_difference(nums: Vec<i32>) -> i32 {
-        let mut nums = nums;
-        nums.sort();
-        let len = nums.len();
-        (nums[len - 1] * nums[len - 2]) - (nums[0] * nums[1])
+        let mut w = i32::MIN;
+        let mut x = i32::MIN;
+        let mut y = i32::MAX;
+        let mut z = i32::MAX;
+
+        for num in nums {
+            if num > w {
+                x = w;
+                w = num;
+            } else if num > x {
+                x = num;
+            }
+
+            if num < z {
+                y = z;
+                z = num;
+            } else if num < y {
+                y = num;
+            }
+        }
+    w * x - y * z
     }
 }
 
