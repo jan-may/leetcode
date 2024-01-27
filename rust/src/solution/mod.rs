@@ -216,3 +216,4 @@ mod s0204_count_primes;
 mod s0064_minimum_path_sum;
 mod s0122_best_time_to_buy_and_sell_stock_ii;
 mod s0213_house_robber_ii;
+mod s0268_missing_number;
