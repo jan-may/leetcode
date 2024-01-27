@@ -1,1 +1,1 @@
-mod p0292_nim_game;
+mod p0326_power_of_three;
