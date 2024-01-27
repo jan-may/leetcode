@@ -1,1 +1,0 @@
-mod p0326_power_of_three;
