@@ -235,3 +235,4 @@ mod s0628_maximum_product_of_three_numbers;
 mod s0643_maximum_average_subarray_i;
 mod s0645_set_mismatch;
 mod s0657_robot_return_to_origin;
+mod s0661_image_smoother;
