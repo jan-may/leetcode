@@ -224,3 +224,4 @@ mod s0383_ransom_note;
 mod s0389_find_the_difference;
 mod s0461_hamming_distance;
 mod s0476_number_complement;
+mod s0482_license_key_formatting;
