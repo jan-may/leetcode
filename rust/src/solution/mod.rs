@@ -232,3 +232,4 @@ mod s0504_base_7;
 mod s0506_relative_ranks;
 mod s0507_perfect_number;
 mod s0628_maximum_product_of_three_numbers;
+mod s0643_maximum_average_subarray_i;
