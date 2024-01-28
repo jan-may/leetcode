@@ -233,3 +233,4 @@ mod s0506_relative_ranks;
 mod s0507_perfect_number;
 mod s0628_maximum_product_of_three_numbers;
 mod s0643_maximum_average_subarray_i;
+mod s0645_set_mismatch;
