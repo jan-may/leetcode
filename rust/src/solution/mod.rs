@@ -236,3 +236,4 @@ mod s0643_maximum_average_subarray_i;
 mod s0645_set_mismatch;
 mod s0657_robot_return_to_origin;
 mod s0661_image_smoother;
+mod s0671_second_minimum_node_in_a_binary_tree;
