@@ -229,3 +229,4 @@ mod s0495_teemo_attacking;
 mod s0500_keyboard_row;
 mod s0492_construct_the_rectangle;
 mod s0504_base_7;
+mod s0506_relative_ranks;
