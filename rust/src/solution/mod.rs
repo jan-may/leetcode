@@ -239,3 +239,5 @@ mod s0661_image_smoother;
 mod s0671_second_minimum_node_in_a_binary_tree;
 mod s0100_same_tree;
 mod s0747_largest_number_at_least_twice_of_others;
+mod s0748_shortest_completing_word;
+mod s0704_binary_search;
