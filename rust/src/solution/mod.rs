@@ -242,3 +242,4 @@ mod s0747_largest_number_at_least_twice_of_others;
 mod s0748_shortest_completing_word;
 mod s0704_binary_search;
 mod s0819_most_common_word;
+mod s0806_number_of_lines_to_write_string;
