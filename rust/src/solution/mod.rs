@@ -238,3 +238,4 @@ mod s0657_robot_return_to_origin;
 mod s0661_image_smoother;
 mod s0671_second_minimum_node_in_a_binary_tree;
 mod s0100_same_tree;
+mod s0747_largest_number_at_least_twice_of_others;
