@@ -245,3 +245,4 @@ mod s0819_most_common_word;
 mod s0806_number_of_lines_to_write_string;
 mod s0821_shortest_distance_to_a_character;
 mod s0830_positions_of_large_groups;
+mod s1619_mean_of_array_after_removing_some_elements;
